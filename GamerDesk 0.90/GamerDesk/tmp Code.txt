@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using Windows.Storage;
+using Windows.Storage.Pickers;
+using Windows.UI.Xaml.Media.Imaging;
+
+namespace GamerDesk
+{
+    public class classAddGame
+    {
+        public classAddGame() { }
+        public static StorageFile GameCover { get; set; }
+        
+        public static async Task<BitmapImage> BrowseImage()
+        {
+            FileOpenPicker picker = new FileOpenPicker();
+            picker.SuggestedStartLocation = PickerLocationId.ComputerFolder;
+            picker.ViewMode = PickerViewMode.Thumbnail;
+
+            picker.FileTypeFilter.Add(".jpg");
+            picker.FileTypeFilter.Add(".png");
+            picker.FileTypeFilter.Add(".bmp");
+
+            GameCover = await picker.PickSingleFileAsync();
+
+            BitmapImage img = new BitmapImage();
+            if (GameCover != null)
+            {
+                var imgStream = await GameCover.OpenReadAsync();
+                
+                img.SetSource(imgStream);                
+            }
+            return img;
+        }
+         
+    }
+}

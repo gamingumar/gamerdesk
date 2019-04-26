@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GamerDesk.App" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAQAAIQAgIAIA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.ApiSearch" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAACAAAAAAAAAAAAEAAAAAAAEAABgAAAAAAAgAAAA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.ApiSearchResult" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAQIAAAAIAAoAAAABABEAAEAEEAAwgIAAgAAgA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Image" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAICAAAAAAAAAAAAAAAABAAAAAAAAEAgAAAAA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Original_Game_Rating" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Platform" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAgAAAAAAAAAAEAAAAAQAAAAAAAgA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.guSearch" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>cApiSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.cGame" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAogIIAKAACAgQAkQIEABEAAAAAAEAAAgA=</HashCode>
+      <FileName>cGame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.cGameViewModel" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAACgAQAAgAAAAAAAEAAAAA=</HashCode>
+      <FileName>cGameViewModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.cGuFuncs" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQAAEAAAAAAAAAAAAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>cGuFuncs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.cUserData" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAhAAAAAQAAQAQAQAEAAAAAAA=</HashCode>
+      <FileName>cUserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.classAddGame" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAEYAAAAAACAACAAABAQAAQgEAAQAAAAMAAEAA0A=</HashCode>
+      <FileName>pAddGame.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.EditGame" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAEYAAAAAACAACAAABAQIAQgAAAQAAAAEAAEAA0A=</HashCode>
+      <FileName>pEditGame.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.pGameDetail" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAYAAAAQAAAAAAAAAAQAAAAAAAQIAAAMAAEAAEA=</HashCode>
+      <FileName>pGameDetail.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.pGamesSearch" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAYAAAAAAAAAAAAAAAQAAAAAAAQAAAAEAAEAAEA=</HashCode>
+      <FileName>pGamesSearch.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.MainPage" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JQAAAAYQAAAACAAAAgAABAQIAAAgAAQABAEMAAEAAEA=</HashCode>
+      <FileName>pMainPage.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.pViewGame" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAYAAAABAAAAAgAAAAQIAAgAAAQABAEEAAEAAEA=</HashCode>
+      <FileName>pViewGame.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Common.BooleanNegationConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanNegationConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.Common.BooleanToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\BooleanToVisibilityConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.Common.NavigationHelper" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAQAAAAUCAQAAAACAAIRAQAAAQAAAUAAAAAAAABAAk=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Common.LoadStateEventArgs" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Common.SaveStateEventArgs" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Common.ObservableDictionary" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CCIAAABAAAAEABAQCAAABAQBAAAAAAAAAAAgAABQIAA=</HashCode>
+      <FileName>Common\ObservableDictionary.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.Common.RelayCommand" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQEACAAQAAECAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\RelayCommand.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GamerDesk.Common.SuspensionManager" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAaIAASCBEAAAICAAAAAIAAAAAAAAAAIAAAAhA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GamerDesk.Common.SuspensionManagerException" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\SuspensionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Delegate Name="GamerDesk.Common.LoadStateEventHandler" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="GamerDesk.Common.SaveStateEventHandler" Collapsed="true">
+    <Position X="2.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Common\NavigationHelper.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

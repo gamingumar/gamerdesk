@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GU-ULTRABOOK</Machine>
+    <WindowsUser>umara</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>61610gamingumar.GamerDesk</PackageIdentityName>
+    <PackageIdentityPublisher>CN=A932051F-7468-4DD8-AB4B-0CD01656CAFB</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>42E5BB605832B2CB60CDB592004BA551AC7865109DF8B9ED1DAE3CC10E0678A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>61610gamingumar.GamerDesk_1.1.0.4_neutral__fgg5c0evhrd28</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>61610gamingumar.GamerDesk_fgg5c0evhrd28!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>61610gamingumar.GamerDesk</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=A932051F-7468-4DD8-AB4B-0CD01656CAFB</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.4</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-13T10:04:02.450</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.exe">
+      <PackagePath>GamerDesk.exe</PackagePath>
+      <Modified>2016-09-13T10:04:02.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\packages\Newtonsoft.Json.9.0.1\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2016-06-13T18:06:14.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\packages\NotificationsExtensions.WinRT.1.0.1\lib\netcore45\NotificationsExtensions.WinRT.dll">
+      <PackagePath>NotificationsExtensions.WinRT.dll</PackagePath>
+      <Modified>2014-07-15T00:32:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Gamer Desk.png">
+      <PackagePath>Assets\Gamer Desk.png</PackagePath>
+      <Modified>2014-07-18T21:52:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\options.png">
+      <PackagePath>Assets\options.png</PackagePath>
+      <Modified>2014-10-19T10:16:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\refresh.png">
+      <PackagePath>Assets\refresh.png</PackagePath>
+      <Modified>2014-07-05T15:50:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+      <Modified>2014-07-01T13:29:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:16:51.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:13:07.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:15:38.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:14:31.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:27.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-22T16:26:57.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-07-18T19:31:25.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+      <Modified>2014-07-16T21:37:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\wd1.jpg">
+      <PackagePath>Assets\wd1.jpg</PackagePath>
+      <Modified>2013-08-23T18:29:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\wd2.jpg">
+      <PackagePath>Assets\wd2.jpg</PackagePath>
+      <Modified>2013-08-23T18:28:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\Assets\wdCover.jpg">
+      <PackagePath>Assets\wdCover.jpg</PackagePath>
+      <Modified>2014-06-24T10:20:05.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\package Name.txt">
+      <PackagePath>package Name.txt</PackagePath>
+      <Modified>2014-07-08T19:46:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\tmp Code.txt">
+      <PackagePath>tmp Code.txt</PackagePath>
+      <Modified>2014-07-02T11:35:37.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\template.xml">
+      <PackagePath>template.xml</PackagePath>
+      <Modified>2014-07-02T11:44:11.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.xr.xml">
+      <PackagePath>GamerDesk.xr.xml</PackagePath>
+      <Modified>2016-09-13T09:45:55.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pAddGame.xbf">
+      <PackagePath>pAddGame.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pArchiveGames.xbf">
+      <PackagePath>pArchiveGames.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.759</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pEditGame.xbf">
+      <PackagePath>pEditGame.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pGameDetail.xbf">
+      <PackagePath>pGameDetail.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.760</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pGamesSearch.xbf">
+      <PackagePath>pGamesSearch.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.764</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pMainPage.xbf">
+      <PackagePath>pMainPage.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pViewGame.xbf">
+      <PackagePath>pViewGame.xbf</PackagePath>
+      <Modified>2016-09-13T10:04:01.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-13T10:04:02.318</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

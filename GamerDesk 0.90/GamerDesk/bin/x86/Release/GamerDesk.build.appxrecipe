@@ -1,0 +1,223 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>GAMINGUMAR-PC</Machine>
+    <WindowsUser>UmaR</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>61610gamingumar.GamerDesk</PackageIdentityName>
+    <IntermediateOutputPath>D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\x86\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\GamerDesk.exe">
+      <PackagePath>GamerDesk.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\packages\Newtonsoft.Json.6.0.3\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\packages\NotificationsExtensions.WinRT.1.0.1\lib\netcore45\NotificationsExtensions.WinRT.dll">
+      <PackagePath>NotificationsExtensions.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Gamer Desk.png">
+      <PackagePath>Assets\Gamer Desk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\options.png">
+      <PackagePath>Assets\options.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\refresh.png">
+      <PackagePath>Assets\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\settings.png">
+      <PackagePath>Assets\settings.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square70x70Logo.scale-140.png">
+      <PackagePath>Assets\Square70x70Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square70x70Logo.scale-180.png">
+      <PackagePath>Assets\Square70x70Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Square70x70Logo.scale-80.png">
+      <PackagePath>Assets\Square70x70Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\bg.jpg">
+      <PackagePath>Assets\bg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\wd1.jpg">
+      <PackagePath>Assets\wd1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\wd2.jpg">
+      <PackagePath>Assets\wd2.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\Assets\wdCover.jpg">
+      <PackagePath>Assets\wdCover.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\package Name.txt">
+      <PackagePath>package Name.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\tmp Code.txt">
+      <PackagePath>tmp Code.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\template.xml">
+      <PackagePath>template.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pAddGame.xbf">
+      <PackagePath>pAddGame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pArchiveGames.xbf">
+      <PackagePath>pArchiveGames.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pEditGame.xbf">
+      <PackagePath>pEditGame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pGameDetail.xbf">
+      <PackagePath>pGameDetail.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pGamesSearch.xbf">
+      <PackagePath>pGamesSearch.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pMainPage.xbf">
+      <PackagePath>pMainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\pViewGame.xbf">
+      <PackagePath>pViewGame.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\GamerDesk.xr.xml">
+      <PackagePath>GamerDesk.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x86\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

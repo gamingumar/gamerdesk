@@ -1,0 +1,89 @@
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.54\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.application
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.application
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.application
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.55\GDLauncher\GDLauncher\obj\Debug\GDLauncher.application
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.application
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.application
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.application
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe.manifest
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.56\GDLauncher\GDLauncher\obj\Debug\GDLauncher.application
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.57\GDLauncher\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.57\GDLauncher\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GameLauncherGD 0.57\GDLauncher\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\GDLauncher.exe.config
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\GDLauncher.exe.manifest
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\GDLauncher.application
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\GDLauncher.exe
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\GDLauncher.pdb
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.Form1.resources
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.Properties.Resources.resources
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.csproj.GenerateResource.Cache
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.exe.manifest
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.application
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.exe
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.pdb
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GDLauncher 0.58\GDLauncher\obj\Debug\GDLauncher.csprojResolveAssemblyReference.cache

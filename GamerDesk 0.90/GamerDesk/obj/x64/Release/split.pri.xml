@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="61610gamingumar.GamerDesk" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>80, 100</Scale>
+			<TargetSize>48, 32, 256, 16</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GamerDesk.xr.xml" uri="ms-resource://61610gamingumar.GamerDesk/Files/GamerDesk.xr.xml">
+				<Candidate type="Path">
+					<Value>GamerDesk.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="package Name.txt" uri="ms-resource://61610gamingumar.GamerDesk/Files/package%20Name.txt">
+				<Candidate type="Path">
+					<Value>package Name.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pAddGame.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pAddGame.xbf">
+				<Candidate type="Path">
+					<Value>pAddGame.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pArchiveGames.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pArchiveGames.xbf">
+				<Candidate type="Path">
+					<Value>pArchiveGames.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pEditGame.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pEditGame.xbf">
+				<Candidate type="Path">
+					<Value>pEditGame.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pGameDetail.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pGameDetail.xbf">
+				<Candidate type="Path">
+					<Value>pGameDetail.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pGamesSearch.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pGamesSearch.xbf">
+				<Candidate type="Path">
+					<Value>pGamesSearch.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pMainPage.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pMainPage.xbf">
+				<Candidate type="Path">
+					<Value>pMainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="pViewGame.xbf" uri="ms-resource://61610gamingumar.GamerDesk/Files/pViewGame.xbf">
+				<Candidate type="Path">
+					<Value>pViewGame.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="template.xml" uri="ms-resource://61610gamingumar.GamerDesk/Files/template.xml">
+				<Candidate type="Path">
+					<Value>template.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="tmp Code.txt" uri="ms-resource://61610gamingumar.GamerDesk/Files/tmp%20Code.txt">
+				<Candidate type="Path">
+					<Value>tmp Code.txt</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bg.jpg" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/bg.jpg">
+					<Candidate type="Path">
+						<Value>Assets\bg.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Gamer Desk.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/Gamer%20Desk.png">
+					<Candidate type="Path">
+						<Value>Assets\Gamer Desk.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="options.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/options.png">
+					<Candidate type="Path">
+						<Value>Assets\options.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="refresh.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/refresh.png">
+					<Candidate type="Path">
+						<Value>Assets\refresh.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="settings.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/settings.png">
+					<Candidate type="Path">
+						<Value>Assets\settings.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="TargetSize-48" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-48.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-32" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-32.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-256" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-256.png</Value>
+					</Candidate>
+					<Candidate qualifiers="TargetSize-16" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.targetsize-16.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/Square310x310Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square310x310Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/Square70x70Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Square70x70Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wd1.jpg" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/wd1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\wd1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wd2.jpg" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/wd2.jpg">
+					<Candidate type="Path">
+						<Value>Assets\wd2.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wdCover.jpg" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/wdCover.jpg">
+					<Candidate type="Path">
+						<Value>Assets\wdCover.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://61610gamingumar.GamerDesk/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-80" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-80.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

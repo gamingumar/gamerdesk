@@ -1,0 +1,2 @@
+MainPackage=D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\x64\Release\GamerDesk_1.1.0.4_Bundle\GamerDesk_1.1.0.4_x64.appx
+SymbolPackage=D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\AppPackages\GamerDesk_1.1.0.4_Test\GamerDesk_1.1.0.4_x64.appxsym

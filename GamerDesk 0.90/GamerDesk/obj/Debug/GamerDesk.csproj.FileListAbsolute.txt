@@ -1,0 +1,1507 @@
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\Windows8.1\[GAMER DESK]\GamerDesk\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.2\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.3\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.4\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\bin\Debug\API TEST.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\API TEST.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\API TEST.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\API TEST.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.5\GamerDesk\obj\Debug\API TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\API TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\API TEST.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\AddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\API TEST.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\EditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.51\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.52\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.53\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.54\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.55\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.56\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAPI TEST.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAPI TEST.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAPI TEST.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pAPI TEST.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.57\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR Aamer\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.58\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.581\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.59\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Windows8.1]\[GAMER DESK]\GamerDesk 0.60\GamerDesk\obj\Debug\ProjectArchitectures.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\resources.pri
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\UmaR\Documents\Visual Studio 2013\Projects\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\ProjectArchitectures.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.xr.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\resources.pri
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\AppxManifest.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\priconfig.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\priconfig.xml.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\layout.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\layout.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\resources.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\resources.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pri.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\pri.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\qualifiers.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.60 V1.2\GamerDesk\obj\Debug\ProjectArchitectures.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\GamerDesk.xr.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\resources.pri
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\AppxManifest.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\App.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\App.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pAddGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pAddGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pEditGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pEditGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGameDetail.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGamesSearch.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pMainPage.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pMainPage.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pViewGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pViewGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\App.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pAddGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pEditGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGameDetail.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGamesSearch.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pMainPage.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pViewGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\priconfig.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\priconfig.xml.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\layout.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\layout.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\resources.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\resources.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pri.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\pri.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\qualifiers.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.70\GamerDesk\obj\Debug\ProjectArchitectures.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\GamerDesk.xr.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\resources.pri
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\AppxManifest.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\App.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\App.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pAddGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pAddGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pEditGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pEditGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGameDetail.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGamesSearch.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pMainPage.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pMainPage.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pViewGame.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pViewGame.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\App.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGameDetail.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGamesSearch.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pMainPage.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pViewGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\App.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGameDetail.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pGamesSearch.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pMainPage.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pViewGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pAddGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pEditGame.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pAddGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pEditGame.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\GamerDesk.exe
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\GamerDesk.pdb
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\priconfig.xml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\priconfig.xml.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\layout.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\layout.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\resources.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\resources.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pri.resfiles
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pri.resfiles.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\qualifiers.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\ProjectArchitectures.txt
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\bin\Debug\pArchiveGames.xbf
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pArchiveGames.g.i.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pArchiveGames.g.cs
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pArchiveGames.xaml
+D:\[GU WORK]\AIR University BSCS\Semester 7\[Microsoft]\[Gamer Desk]\GamerDesk 0.71\GamerDesk\obj\Debug\pArchiveGames.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\App.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pAddGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pArchiveGames.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pEditGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pGameDetail.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pGamesSearch.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pMainPage.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\pViewGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.xr.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.exe
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.pdb
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\resources.pri
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\AppxManifest.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\GamerDesk.build.appxrecipe
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\NotificationsExtensions.WinRT.dll
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\GamerDesk.csprojResolveAssemblyReference.cache
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\App.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\App.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pAddGame.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pAddGame.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pArchiveGames.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pArchiveGames.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pEditGame.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pEditGame.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGameDetail.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGameDetail.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGamesSearch.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGamesSearch.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pMainPage.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pMainPage.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pViewGame.g.i.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pViewGame.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\App.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pAddGame.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pArchiveGames.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pEditGame.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGameDetail.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGamesSearch.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pMainPage.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pViewGame.xaml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\App.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pAddGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pArchiveGames.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pEditGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGameDetail.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pGamesSearch.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pMainPage.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pViewGame.xbf
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\XamlSaveStateFile.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\GamerDesk.exe
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\GamerDesk.pdb
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\GamerDesk.csproj.GenerateResource.Cache
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\priconfig.xml
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\priconfig.xml.intermediate
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\layout.resfiles
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\layout.resfiles.intermediate
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\resources.resfiles
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\resources.resfiles.intermediate
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pri.resfiles
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\pri.resfiles.intermediate
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\qualifiers.txt
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\qualifiers.txt.intermediate
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\umara\OneDrive\[GU WORK]\Development\Gamer Desk\GamerDesk 0.90\GamerDesk\obj\Debug\ProjectArchitectures.txt
