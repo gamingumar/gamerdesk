@@ -71,7 +71,7 @@ namespace GamerDesk
         {
             //using (var client = new HttpClient())
             //{
-            //    string text = await client.GetStringAsync(new Uri("http://www.giantbomb.com/api/search/?api_key=6d10bfb6e754c5d8183e94476ba65a639565f333&format=json&query=metroid prime&resources=game"));
+            //    string text = await client.GetStringAsync(new Uri("http://www.giantbomb.com/api/search/?api_key=API_KEY&format=json&query=metroid prime&resources=game"));
 
             //    var obj = JsonConvert.DeserializeObject<Rootobject>(text);
             //    //ObservableCollection<Rootobject> dataCollection = JsonConvert.DeserializeObject<Rootobject>(text);

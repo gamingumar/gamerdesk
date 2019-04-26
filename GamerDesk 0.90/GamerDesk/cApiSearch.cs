@@ -85,7 +85,7 @@ namespace GamerDesk
                 {
                     //query to API
                     jsonData = await client.GetStringAsync(new Uri
-                    ("http://www.giantbomb.com/api/search/?api_key=6d10bfb6e754c5d8183e94476ba65a639565f333&resources=game&limit=100&format=json&query="
+                    ("http://www.giantbomb.com/api/search/?api_key=API_KEY&resources=game&limit=100&format=json&query="
                     + SearchKeyword + ""));
 
                       
